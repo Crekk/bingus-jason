@@ -145,5 +145,9 @@
     {"name": "Acquire all Talisman Pouches"},
     {"name": "Acquire 3 Heirloom talismans"},
     {"name": "Acquire Ritual Sword and Ritual Shield Talisman"},
-    {"name": "Kill 5 night bosses"}
+    {"name": "Kill 5 night bosses"},
+	{"name": "Kill Margit in Capital Outskirts"},
+	{"name": "Acquire 3 Grapes"},
+	{"name": "Acquire a Great Ghost Glovewort"},
+	{"name": "Kill Greyll"}
 ]
